@@ -1,0 +1,26 @@
+{
+  "name": "menu-ordering-system",
+  "version": "1.0.0",
+  "description": "Create a RESTful API that takes orders for breakfast, lunch, and dinner. Consider the following menus:",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottgall/menu-ordering-system.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scottgall/menu-ordering-system/issues"
+  },
+  "homepage": "https://github.com/scottgall/menu-ordering-system#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "supertest": "^6.1.3"
+  }
+}
