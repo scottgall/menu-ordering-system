@@ -1,4 +1,4 @@
-# Menu Ordering System
+# Menu Ordering System 🍽️
 
 This project contains a RESTful API that takes in orders for breakfast, lunch, and dinner and returns a list of items that make up the requested meal.
 
