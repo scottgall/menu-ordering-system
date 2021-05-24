@@ -1,6 +1,6 @@
 # Menu Ordering System
 
-Create a RESTful API that takes in orders for breakfast, lunch, and dinner and returns a list of items that make up the requested meal.
+This project contains a RESTful API that takes in orders for breakfast, lunch, and dinner and returns a list of items that make up the requested meal.
 
 ## Dependencies
 
@@ -20,10 +20,14 @@ Create a RESTful API that takes in orders for breakfast, lunch, and dinner and r
 
 ## Using the API
 
-* Send a POST request to `http://localhost:3000` with JSON in the request body as formatted below
+* Send a POST request to `http://localhost:3000` with JSON in the request body as formatted below:
 ```
 {
   "order": "Lunch 1,2,3"
 }
 ```
+
+## Testing
+
+* Run `npm test` inside the project directory
 
